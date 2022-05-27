@@ -14,7 +14,7 @@
 
 ##### Requirement:
  - GIT CraX ( CraX GitHub )
- - A Railway account ( Register on Heroku )
+ - A Railway account ( Register on Railway )
  - Stable Network
 
 ##### Steps: 
