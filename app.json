@@ -1,6 +1,6 @@
 {
-  "name": "Virtual Network Computing BY Rexxar ( VPS )",
-  "description": "Deploy VNC to Heroku.",
+  "name": "Virtual Network Computing BY CraX ( VPS )",
+  "description": "Deploy VNC to Railway.",
   "keywords": ["VNC", "Docker"],
   "env": {
   },
